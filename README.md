@@ -16,11 +16,11 @@ newline -> Jump to the next line </br>
 exit -> stops the program </br>
 
 <u>Examples</u> </br>
-1) Print simple message
+1. Print simple message
 print Hello World!
 exit
 </br>   
-2) Sum
+2. Sum
 var a=1
 var b=1
   
@@ -30,7 +30,7 @@ put b Enter second number:
 print a+b
 exit
 </br>
-3) Even or odd
+3. Even or odd
 var i=1
 
 while i<10
