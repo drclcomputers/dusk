@@ -1,6 +1,6 @@
 # dusk
 
-Dusk is an interpreted programming language written in C++. Compared to other interpreted languages, Dusk doesn't use tokens, all command being parsed.
+Dusk is an interpreted programming language written in C++. Compared to other interpreted languages, Dusk doesn't use tokens, all commands being parsed.
 For the time being, I haven't implemented functions, classes or arrays!!!
 
 Syntax:
