@@ -45,6 +45,6 @@ newline</br>
 stoploop</br>
 exit</br>
 </br>
-Note: While using print, sometimes, the space at the end of a word isn't parsed, so you can use 'print @spc' for a more aesthetic look. </br>
+Note: While using print, sometimes, the space at the end of the sentence isn't parsed, so you can use 'print @spc' for a more aesthetic look. </br>
 </br>
 In the coming days, I'll make tutorials on my Youtube Channel.</br>
