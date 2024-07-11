@@ -1,19 +1,19 @@
-# dusk
+# Dusk
 
 Dusk is an interpreted programming language written in C++. Compared to other interpreted languages, Dusk doesn't use tokens, all commands being parsed.
 For the time being, I haven't implemented functions, classes or arrays!!!
 
 Syntax:
-print -> prints text, variables or operations (print Hello World!)
-var -> declares a variable (var a=1)
-put -> input for variable (put a)
-if -> decision branch (if 3>2)
-stopif -> if statement end
-Note: There is no else statement yet!
-while -> loop (while 3>2)
-stoploop -> while loop end
-newline -> Jump to the next line
-exit -> stops the program
+print -> prints text, variables or operations (print Hello World!) </br>
+var -> declares a variable (var a=1) </br>
+put -> input for variable (put a) </br>
+if -> decision branch (if 3>2) </br>
+stopif -> if statement end </br>
+Note: There is no else statement yet! </br>
+while -> loop (while 3>2) </br>
+stoploop -> while loop end </br>
+newline -> Jump to the next line </br>
+exit -> stops the program </br>
 
 <u>Examples</u>
 1) Print simple message
