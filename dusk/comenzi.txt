@@ -1,0 +1,19 @@
+#pragma once
+
+-----------------and &
+-----------------or |
+break
+
+make - (do)
+else
+-----------------if
+while
+
+start - (func)
+------------stop
+return
+
+------------------print
+------------------var
+------------------input
+------------------newline
