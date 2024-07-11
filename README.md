@@ -19,7 +19,6 @@ Examples </br>
 1. Print simple message</br>
 print Hello World!</br>
 exit</br>
-</br>   
 2. Sum
 var a=1</br>
 var b=1</br>
@@ -29,7 +28,6 @@ put b Enter second number:</br>
 </br>
 print a+b</br>
 exit</br>
-</br>
 3. Even or odd</br>
 var i=1</br>
 </br>
