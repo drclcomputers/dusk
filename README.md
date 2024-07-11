@@ -3,7 +3,7 @@
 Dusk is an interpreted programming language written in C++. Compared to other interpreted languages, Dusk doesn't use tokens, all commands being parsed.
 For the time being, I haven't implemented functions, classes or arrays!!!
 
-Syntax:
+Syntax: </br>
 print -> prints text, variables or operations (print Hello World!) </br>
 var -> declares a variable (var a=1) </br>
 put -> input for variable (put a) </br>
@@ -15,11 +15,11 @@ stoploop -> while loop end </br>
 newline -> Jump to the next line </br>
 exit -> stops the program </br>
 
-<u>Examples</u>
+<u>Examples</u> </br>
 1) Print simple message
 print Hello World!
 exit
-   
+</br>   
 2) Sum
 var a=1
 var b=1
@@ -29,7 +29,7 @@ put b Enter second number:
   
 print a+b
 exit
-
+</br>
 3) Even or odd
 var i=1
 
@@ -44,7 +44,7 @@ i=i+1
 newline
 stoploop
 exit
-
+</br>
 Note: While using print, sometimes, the space at the end of a word isn't parsed, so you can use 'print @spc' for a more aesthetic look. 
-
+</br>
 In the coming days, I'll make tutorials on my Youtube Channel.
