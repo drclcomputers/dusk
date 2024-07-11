@@ -16,9 +16,9 @@ newline -> Jump to the next line </br>
 exit -> stops the program </br>
 
 Examples </br>
-1. Print simple message
-print Hello World!
-exit
+1. Print simple message</br>
+print Hello World!</br>
+exit</br>
 </br>   
 2. Sum
 var a=1</br>
